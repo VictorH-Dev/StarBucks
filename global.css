@@ -1,0 +1,12 @@
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max: width 12800px; 
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.menu{
+    width: 90%;
+    text-align: right;
+}
